@@ -1,4 +1,4 @@
-[![github stats](https://github-readme-stats.vercel.app/api?username=lyeoni&show_icons=true&hide=contribs&hide_border=true)](https://github.com/lyeoni)
+[![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lyeoni&show_icons=true&hide=contribs&hide_border=true)](https://github.com/lyeoni)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoyeon-lee-5606a6146/)](https://www.linkedin.com/in/hoyeon-lee-5606a6146/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lyeoni.g@gmail.com)](mailto:lyeoni.g@gmail.com)
