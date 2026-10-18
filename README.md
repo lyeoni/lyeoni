@@ -20,6 +20,7 @@ I connect research and engineering through technical leadership, mentoring, and 
 
 ## Selected Papers
 
+- **EMNLP 2026** — [Phonemizing User-Generated Text: A Benchmark, Taxonomy, and Compositional Approach](https://arxiv.org/abs/2609.27205)
 - **INTERSPEECH 2026** — [LLM-Based Multi-Reference Evaluation for Efficient and Robust Assessment of Phrase Break Annotations](https://arxiv.org/abs/2606.21098)
 - **INTERSPEECH 2025** — [Synthetic Data Generation for Phrase Break Prediction with Large Language Model](https://www.isca-archive.org/interspeech_2025/lee25c_interspeech.html)
 - **EMNLP 2024** — [A Two-Step Approach for Data-Efficient French Pronunciation Learning](https://aclanthology.org/2024.emnlp-main.1064/)
@@ -28,7 +29,7 @@ For a complete publication list, please visit my [Google Scholar](https://schola
 
 ## GitHub at a Glance
 
-- [![UGTPHON](https://img.shields.io/badge/GitHub-UGTPHON-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naver-ai/UGTPHON) — a multilingual G2P benchmark for user-generated text
+- [![UGTPHON](https://img.shields.io/badge/GitHub-UGTPHON-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naver-ai/UGTPHON) — a multilingual G2P benchmark for user-generated text, published at EMNLP 2026
 - [![NLP Tutorial](https://img.shields.io/badge/GitHub-NLP%20Tutorial-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lyeoni/nlp-tutorial) — practical NLP tutorials and reproducible implementations in Jupyter notebooks
 
 I enjoy turning research ideas into clear, reproducible resources and dependable AI systems. If you are interested in Speech-Language & Multimodal AI, LLMs, agentic applications, or research collaboration, feel free to reach out.
