@@ -1,5 +1,3 @@
-# Hoyeon Lee
-
 **AI Research Scientist · Tech Lead at NAVER Cloud**
 
 I am a Senior AI Research Scientist and Tech Lead in the Voice team at NAVER Cloud. My research focuses on **Speech-Language & Multimodal AI** and **Large Language Models**, with the goal of building AI systems that understand, reason, and interact across speech, language, and context.
